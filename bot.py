@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 
 # إعدادات البوت
-BOT_TOKEN   = "ضع_رمز_البوت_هنا"
+BOT_TOKEN   = "7778433338:AAH2O3DH0ZfonJ2mKeBXYSOtbjutBWvWlVQ"
 CHANNEL_ID  = "@dzmmm"      # تأكّد أن البوت مشرف بالقناة
 QARI_PATH   = "misha"       # مجلد القارئ في mp3quran.net
 QARI_NAME   = "مشاري راشد العفاسي"
